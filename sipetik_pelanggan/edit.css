@@ -1,0 +1,88 @@
+/* table, th, td, tr, thead{
+    border:1px solid #42C2FF;
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    background-color: #EFFFFD;
+    padding: 15px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #EFFFFD;
+    color: #42C2FF;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.navbar-light{
+    background-color: #42C2FF;
+}
+.offcanvas{
+    background-color: #EFFFFD;
+}
+.nav-link{
+    color: #42C2FF!important;
+}
+.active{
+    color: #42C2FF!important;
+    font-weight: bold;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+h1{
+    font-weight: normal;
+    font-size:50px;
+}
+.nama{
+    font-weight: bold;
+    font-size:50px;
+}
+.btn-dark{
+    background-color: #42C2FF;
+    border-color: #42C2FF;
+    color: #EFFFFD;
+    font-weight: bold;
+}
+
+.table-dark{
+    color: #42C2FF;
+}
+.jumbotron{
+    padding-top :5rem;
+}
+.rounded-circle{
+    background-color: #42C2FF;
+    border: solid; 
+}
+.svg_queen{
+    opacity: 0.8;
+    width: 50%;
+    height: 50%;
+}
+.bawah{
+    padding-top: 5rem;
+}
+.tag{
+    font-size: 40px;
+    font-weight: bold;
+}
+.col-md-4{
+    padding-bottom: 20px;
+}
+.card-text{
+    font-weight: bold;
+} */
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
